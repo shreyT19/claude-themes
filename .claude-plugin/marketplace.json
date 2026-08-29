@@ -1,0 +1,16 @@
+{
+  "name": "claude-themes",
+  "description": "Colour themes for Claude Code \u2014 ports of well-known editor palettes plus a few originals, with a skill that installs and switches them.",
+  "owner": {
+    "name": "shreyT19",
+    "url": "https://github.com/shreyT19"
+  },
+  "plugins": [
+    {
+      "name": "claude-themes",
+      "source": "./",
+      "description": "Fourteen colour themes for Claude Code, plus a skill that installs and switches them for you.",
+      "version": "1.0.0"
+    }
+  ]
+}
