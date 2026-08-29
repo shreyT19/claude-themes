@@ -1,0 +1,11 @@
+{
+  "name": "claude-themes",
+  "description": "Fourteen colour themes for Claude Code — ports of well-known editor palettes plus a few originals.",
+  "version": "1.0.0",
+  "author": {
+    "name": "shreyT19",
+    "url": "https://github.com/shreyT19"
+  },
+  "homepage": "https://github.com/shreyT19/claude-themes",
+  "keywords": ["theme", "colorscheme", "palette", "ui"]
+}
